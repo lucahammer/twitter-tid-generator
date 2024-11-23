@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"github.com/gin-gonic/gin"
-	"github.com/jsvm/twitter-transaction-payload-gen/payload"
+	"github.com/lucahammer/twitter-tid-generator/payload"
 	"io"
 	"log"
 	"math/rand"
