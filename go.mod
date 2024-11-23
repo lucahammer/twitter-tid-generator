@@ -1,4 +1,4 @@
-module github.com/jsvm/twitter-transaction-payload-gen
+module github.com/lucahammer/twitter-tid-generator
 
 go 1.18
 
